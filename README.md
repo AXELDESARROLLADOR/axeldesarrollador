@@ -14,7 +14,7 @@
   Actualmente curso la carrera de <strong>Ingeniería en Sistemas de Información</strong> y<br> 
   Me encuentro finalizando la <strong>Tecnicatura Universitaria en Tecnologías de la Información</strong>.<br>
   Busco oportunidades laborales como <strong>Desarrollador Full Stack o Backend Java</strong>,<br>
-  con disponibilidad para radicarme en <strong>Tigre (Buenos Aires)</strong> o <strong>Villa María (Córdoba)</strong>.
+  con disponibilidad para establecerme en <strong>Tigre (Buenos Aires)</strong> o <strong>Villa María (Córdoba)</strong>.
 </p>
 
 
