@@ -12,7 +12,7 @@
 <p>
   <strong>Soy Desarrollador Java</strong>, estudiante en la <strong>UTN Facultad Regional Santa Fe</strong>.<br>
   Actualmente curso la carrera de <strong>Ingeniería en Sistemas de Información</strong><br> 
-  y me encuentro finalizando la <strong>Tecnicatura Universitaria</strong>.<br>
+  y me encuentro finalizando la <strong>Tecnicatura Universitaria en Tecnologías de la Información</strong>.<br>
   Busco oportunidades laborales como <strong>Desarrollador Full Stack o Backend Java</strong>,<br>
   con disponibilidad para radicarme en <strong>Tigre (Buenos Aires)</strong> o <strong>Villa María (Córdoba)</strong>.
 </p>
