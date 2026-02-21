@@ -10,7 +10,7 @@
 
 
 <p>
-  <strong>Soy Desarrollador Java</strong>,estudiante en la <strong>UTN Facultad Regional Santa Fe</strong>.<br>
+  <strong>Soy Desarrollador Java</strong>, estudiante en la <strong>UTN Facultad Regional Santa Fe</strong>.<br>
   Actualmente curso la carrera de <strong>Ingeniería en Sistemas de Información</strong><br> 
   y me encuentro finalizando la <strong>Tecnicatura Universitaria</strong>.<br>
   Busco oportunidades laborales como <strong>Desarrollador Full Stack o Backend Java</strong>,<br>
