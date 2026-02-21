@@ -63,4 +63,12 @@ Herramientas para el desarrollo, despliegue y control de versiones.
 
 <h3>Mis Estudios:</h3>
 - 🎓 Estudiante de **Ingeniería en Sistemas de Información** en la UTN Facultad Regional Santa Fe.<br>
-- 📜 Finalizando la **Tecnicatura Universitaria en Tecnologías de la Información**.
+- 📜 Finalizando la **Tecnicatura Universitaria en Tecnologías de la Información**.<br>
+- Curso de Programación Orientada a Objetos con Java - (TodoCode) - (2025 Finalizado)<br>
+- Curso de Java Web con JSP y JPA - (TodoCode) - (2025 Finalizado)<br>
+- Curso de Desarrollo de APIs en Java con Spring Boot - (TodoCode) - (2025 Finalizado)<br>
+- Curso de Microservicios con Spring Cloud  - (TodoCode) - (2025 Finalizado)<br>
+- Curso de Bases de Datos Con MySQL - (TodoCode) - (2025 Finalizado)<br>
+- Curso de HTML Y CSS - (TodoCode) - (2025 Finalizado)<br>
+- Curso de Git y GitHub - (TodoCode) - (2025 Finalizado)<br>
+- Curso de Introducción a Ciberseguridad - (Cisco Networking Academy) - (2025 Finalizado)<br>
