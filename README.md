@@ -60,7 +60,6 @@ Herramientas para el desarrollo, despliegue y control de versiones.
 <!--![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)-->
 
 <h3>Mis Estudios:</h3>
-- 🎓 Estudiante de **Ingeniería en Sistemas de Información** en la UTN Facultad Regional Santa Fe.<br>
 - 📜 Finalizando la **Tecnicatura Universitaria en Tecnologías de la Información**.<br>
 - Curso de Programación Orientada a Objetos con Java - (TodoCode) - (2025 Finalizado)<br>
 - Curso de Java Web con JSP y JPA - (TodoCode) - (2025 Finalizado)<br>
