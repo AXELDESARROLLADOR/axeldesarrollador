@@ -10,9 +10,7 @@
 
 
 <p>
-  <strong>Soy Java Developer</strong>, estudiante en la <strong>Universidad Tecnológica Nacional Facultad Regional Santa Fe</strong>.<br>
-  Actualmente curso la carrera de <strong>Ingeniería en Sistemas de Información</strong> y<br> 
-  Me encuentro finalizando la <strong>Tecnicatura Universitaria en Tecnologías de la Información</strong> en la <strong>Universidad Tecnológica Nacional Facultad Regional Santa Fe</strong>.<br>
+  <strong>Soy Java Developer</strong> y me encuentro finalizando la <strong>Tecnicatura Universitaria en Tecnologías de la Información</strong> en la <strong>UniversidadTecnológica Nacional Facultad Regional Santa Fe</strong>.<br>
   Busco oportunidades laborales como <strong>Desarrollador Backend Java o Full Stack</strong>,<br>
   con disponibilidad para establecerme en <strong>Tigre (Buenos Aires)</strong> o <strong>Villa María (Córdoba)</strong>.
 </p>
